@@ -2,4 +2,4 @@
 
 Esta saga de libros cuentan la historia de Larry Plotter, un hacker excepcional.
 
-** Jorge Lopez**
+** Jorge Lopez**, Larry plotter fan
